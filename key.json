@@ -1,0 +1,12 @@
+{
+  "configs": [
+    {
+      "file": "AI_Usage",
+      "keys": ["age"]
+    },
+    {
+      "file": "carsdata",
+      "keys": ["Cylinders"]
+    }
+  ]
+}
